@@ -1,10 +1,12 @@
+# Alphabet
+#-----------------------------------------------------------
 def alphabetLower():
     return 'abcdefghijklmnopqrstuvwxyz'
 
 def alphabetUpper():
     return 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
-# PYTHON SEARCH IN DICTONARY
+# SEARCH IN DICTONARY
 #-----------------------------------------------------------
 def findAll(where, what):
     q = 0
